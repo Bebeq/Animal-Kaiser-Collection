@@ -15,4 +15,3 @@ You can download the latest file Card Collections at the [**releases page**](<ht
 
 # Disclaimer
 This project does not contain any copyrights, and the application only stores and displays data that has been input by the user. Essentially, the application simply sends strings to an IP and port, which can easily be obtained for free on the internet.# Card-Collections
-# Card-Collections
